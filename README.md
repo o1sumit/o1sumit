@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sumit Kumar Jha
+# 👋 Hi, I’m Sumit kumar jha
 
 - 👀 I’m passionate about building robust, scalable applications for **web** and **mobile**.
 - 🌱 I’m currently learning cutting-edge technologies like **Swift** and **Kotlin** for mobile app development.

@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @o1sumit
+# 👋 Hi, I’m Sumit kumar jha
 
 - 👀 I’m passionate about building robust, scalable applications for **web** and **mobile**.
 - 🌱 I’m currently learning cutting-edge technologies like **Next.js** and **Kotlin** for mobile app development.

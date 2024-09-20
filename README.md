@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sumit Kumar Jha
 
 - 👀 I’m passionate about building robust, scalable applications for **web** and **mobile**.
-- 🌱 I’m currently learning cutting-edge technologies like **Next.js** and **Kotlin** for mobile app development.
+- 🌱 I’m currently learning cutting-edge technologies like **Swift** and **Kotlin** for mobile app development.
 - 💞️ I’m looking to collaborate on exciting projects involving **Full-Stack Development**, **Mobile Apps** (iOS/Android), or **Cloud Integration**.
 - 📫 How to reach me: [sumeetjha.wa@gmail.com] | [LinkedIn Profile] | [Twitter Handle]
 
